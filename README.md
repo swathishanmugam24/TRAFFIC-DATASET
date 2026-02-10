@@ -11,14 +11,13 @@ The dataset is suitable for DBMS implementation, Business Intelligence analysis,
 - Examples: NH-44 (Panipat), Delhi–Gurugram Expressway, Ambala Cantt Junction, Rohtak Ring Road.
   
 📱 Dataset Size
-Number of rows: 1000
-Number of columns: 15
+Number of rows: 2500
+Number of columns: 17
 
 🎯 Purpose
 This dataset is designed for:
 - Traffic Flow Analysis – Understanding congestion patterns
 - Predictive Modeling – Building ML models for traffic prediction
-- Signal Optimization – Analyzing traffic light timings
 - Incident Impact Studies – Evaluating accident effects on traffic flow
 - Urban Planning – Data-driven decisions for infrastructure improvements
 - Research & Education – Academic projects and student learning
@@ -31,7 +30,4 @@ This dataset is designed for:
 - Speed estimation
 - Data Analytics
 - Peak hour analysis
-- Weekday vs weekend traffic patterns
-- Weather impact on traffic
-- Accident frequency analysis
-- City-wise congestion mapping
+  
